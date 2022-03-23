@@ -11,6 +11,9 @@ namespace helloworldnew131
         static void Main(string[] args)
         {
             Console.WriteLine("Welcome to 131");
+
+            Reversenumber.FindReverse();
+
             Console.ReadLine();
         }
     }
