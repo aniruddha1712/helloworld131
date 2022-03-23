@@ -12,9 +12,14 @@ namespace helloworldnew131
         {
             Console.WriteLine("Welcome to 131");
 
+
             Reversenumber.FindReverse();
+          
+            Swapnumber.SwapTwoNumbers();
+
 
             Console.ReadLine();
+
         }
     }
 }
