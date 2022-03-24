@@ -46,6 +46,10 @@
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Reversenumber.cs" />
+<<<<<<< HEAD
+=======
+
+>>>>>>> f8d2ebe2cb81f419d9b1c28b3935a289d39371ef
     <Compile Include="Swapnumber.cs" />
   </ItemGroup>
   <ItemGroup>
