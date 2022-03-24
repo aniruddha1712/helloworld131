@@ -16,6 +16,8 @@ namespace helloworldnew131
 
             Swapnumber.SwapTwoNumbers();
 
+            FlipCoin.FindFlipCoinCount();
+
             Console.ReadLine();
 
         }
