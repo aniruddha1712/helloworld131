@@ -18,6 +18,8 @@ namespace helloworldnew131
 
             FlipCoin.FindFlipCoinCount();
 
+            ReplaceUser.ReplaceUserName();
+
             Console.ReadLine();
 
         }
