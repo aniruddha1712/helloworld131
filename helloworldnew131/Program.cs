@@ -14,7 +14,10 @@ namespace helloworldnew131
 
             Reversenumber.FindReverse();
 
+            Swapnumber.SwapTwoNumbers();
+
             Console.ReadLine();
+
         }
     }
 }
